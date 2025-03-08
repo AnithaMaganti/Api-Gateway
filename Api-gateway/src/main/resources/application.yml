@@ -1,5 +1,5 @@
 server:
-  port: 8080  # API Gateway runs on this port
+  port: 8085  # API Gateway runs on this port
 
 spring:
   cloud:
